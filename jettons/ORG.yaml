@@ -1,9 +1,9 @@
-name: TON Orange
-description: "ORANGE is a meme coin with no intrinsic value or expectation of financial return. This coin is for entertainment purposes only."
-image: "https://dd.dexscreener.com/ds-data/tokens/ton/eqcnagboxxwpavxrfbq3bwcxzlhqcmpblsvtg2pyfpkzfux2.png"
-address: "EQCNAgBOXxWPavXRfBq3bWcXzlhQCmPBlSVTg2pyfPKzFUx2"
-symbol: "ORG"
+name: Bitcoin LC
+description: "Bitcoin forking replacing PoW with PoUW."
+image: "http://londoncoin.net/coin_img.png"
+address: "EQAS7z3cqj770sGoF4LPeT1FDVZgc7nSFZiUEfGj95rreseg"
+symbol: "BLC"
 websites:
-  - "https://t.me/orange_tonlur"
+  - "https://londoncoin.utime.kr/"
 social:
   - "https://t.me/tonorangelur"
